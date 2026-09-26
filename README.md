@@ -11,6 +11,18 @@ After tracing the timing, package concentration, and behavioral signals behind t
 3. Build a **usage-based early-warning alert** (active users ÷ seats) to flag at-risk accounts 1–2 months before they churn
 4. Investigate Pro's feature gap directly — "feature limitations" remained the top cited churn reason even after the price increase
 
+## Background
+
+Notabene is a B2B SaaS company providing subscription-based financial record-keeping software for micro, small, and medium enterprises (MSMEs) and mid-sized companies. It offers three pricing tiers:
+
+| Tier | Price | Segment |
+|---|---|---|
+| Starter | Rp149,000/month | Entry-level, smallest businesses |
+| **Pro** | Rp399,000 → **Rp499,000/month (+25%, March 2026)** | Primary growth driver, mid-sized accounts |
+| Bisnis | Rp1,499,000/month | Enterprise tier |
+
+As of August 2026, Notabene had 867 active customers. On March 1, 2026, it raised Pro-tier pricing by 25% — its first price increase in three years.
+
 ## Business Problem
 
 Notabene's active customer base grew every month across a 12-month window (Sep 2025–Aug 2026), which on the surface looked healthy. But two deteriorating trends were hiding underneath: customer churn more than doubled following the company's first price increase in three years (Pro tier, +25%, March 2026), and MRR growth nearly halved over the same period. Leadership needed to know: **is this churn spike actually caused by the price change, which customer segments are driving it, and is the business's underlying revenue health as strong as the customer-count trend suggests?**
